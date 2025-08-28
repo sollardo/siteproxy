@@ -10,7 +10,7 @@
   },
   "vars": {
     "name": "devprx",
-    "proxy_url": "https://devprx.ir-team.ir",
+    "proxy_url": "https://devus.ir-team.ir",
     "token_prefix": "/111334/"
   }
 }
