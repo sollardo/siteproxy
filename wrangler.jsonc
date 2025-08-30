@@ -1,7 +1,7 @@
 {
   // for cf pages deployment
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cfpr-6bl", // 替换为你的cloudflare page的名字
+  "name": "cfpr", // 替换为你的cloudflare page的名字
   "pages_build_output_dir": "build/cf_page",
   "compatibility_date": "2025-08-25",
   "compatibility_flags": ["nodejs_compat"],
@@ -9,8 +9,8 @@
     "enabled": true
   },
   "vars": {
-    "name": "cfpr-6bl",
-    "proxy_url": "https://cfpr-6bl.pages.dev",
+    "name": "cfpr",
+    "proxy_url": "https://cfpr.ir-team.ir",
     "token_prefix": "/111334/"
   }
 }
